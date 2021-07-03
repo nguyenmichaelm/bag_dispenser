@@ -1,0 +1,23 @@
+{
+  "name": "static-frontend-bag-dispenser",
+  "version": "1.0.0",
+  "description": "This a frontend static ecommerce website to sell bags. \r The main technology used in this project is HTML, CSS, JS, Node.js and NPM.\r The main library used is Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenmichaelm/bag_dispenser.git"
+  },
+  "author": "Michael Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenmichaelm/bag_dispenser/issues"
+  },
+  "homepage": "https://github.com/nguyenmichaelm/bag_dispenser#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
